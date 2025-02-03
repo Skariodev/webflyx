@@ -1,5 +1,3 @@
 # contents
 
-const thisIsAFuction = () => {
-    console.log(")
-}
+This has now been changed
